@@ -1,0 +1,5 @@
+config/
+cache/
+.well-known/
+.user.ini
+.htaccess
